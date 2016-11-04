@@ -1,4 +1,4 @@
-# MASSIO
+# MassIO
 Matrix Arranged Soc System &amp; Massive I/O
 
 For more details please see its Wiki.
